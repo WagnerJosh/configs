@@ -1,5 +1,11 @@
 # Oh my Posh Terminal Configuration file
 
+Oh my posh uses Go's text/templates Templating language extended with sprig for its configuration file. More info can be found here  
+
+* [Oh my posh](https://ohmyposh.dev/docs/configuration/templates)
+* [Go docs](https://pkg.go.dev/text/template)
+* [sprig](https://masterminds.github.io/sprig/)
+
 Snippet to add to `.zprofile`
 
 ```bash
